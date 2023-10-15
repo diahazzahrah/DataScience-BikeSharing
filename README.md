@@ -8,7 +8,7 @@ pip version 23.2.1
 
 Method 1 (install manual 1by1)
 pip install streamlit
-pip install numpy pandas matplotlib seaborn 
+pip install pandas matplotlib seaborn 
 
 Method 2 
 pip install -r requirements.txt
