@@ -6,9 +6,9 @@ Install python, and environment
 ![Alt text](image.png)
 pip version 23.2.1
 
-Method 1
+Method 1 (install manual 1by1)
 pip install streamlit
-pip install numpy pandas scipy matplotlib seaborn jupyter babel
+pip install numpy pandas scipy matplotlib seaborn 
 
 Method 2 
 pip install -r requirements.txt
