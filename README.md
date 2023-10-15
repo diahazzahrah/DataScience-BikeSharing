@@ -21,7 +21,7 @@ streamlit run dashboard/dashboard.py
 
 ## Link: steamlit app
 
-Here's the link: 
+Here's the link: https://dashboard-bikesharing-da.streamlit.app/
 
 
 ## User Interface System Bike Sharing
