@@ -19,7 +19,7 @@ pip install -r requirements.txt
 streamlit run dashboard/dashboard.py
 ```
 
-## Link: steamlit app
+## Link: streamlit app
 
 Here's the link: https://dashboard-bikesharing-da.streamlit.app/
 
