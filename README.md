@@ -14,7 +14,7 @@ Method 2
 pip install -r requirements.txt
 ```
 
-## Run steamlit app
+## Run streamlit app
 ```
 streamlit run dashboard/dashboard.py
 ```
@@ -28,7 +28,7 @@ Here's the link: https://dashboard-bikesharing-da.streamlit.app/
 ![Alt text](image-1.png)
 
 ## View Dashboard Directly
-Pada dashboard, Anda dapat melihat mengenai data - data terkait dengan Bike Sharing Dataset. Ditampilkan data dengan fitur filter untuk melihat temp, atemp, hum. Selain itu, disajikan grafik - grafik terkait dengan bike sharing dataset. 
+On the dashboard, you can see data related to the Bike Sharing Dataset. Data is displayed with a filter feature to see total users, temp, atemp, hum. Apart from that, graphs related to the bike sharing dataset are presented.
 
 
 
