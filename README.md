@@ -2,7 +2,7 @@
 
 ## Setup environment
 ```
-Install python, and environment
+Install python ver 3.10, and environment
 ![Alt text](image.png)
 pip version 23.2.1
 
